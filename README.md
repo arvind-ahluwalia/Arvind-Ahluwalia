@@ -27,7 +27,7 @@ I design AI systems starting from business intent, not models.
 Each layer reinforces the others to enable safe autonomy at enterprise scale.
 
 ### Related work
-- **Why the AI system exists** → [`enterprise-ai-discovery-kit`](../../../enterprise-ai-discovery-kit)
+- **Why the AI system exists** → [`enterprise-ai-discovery`](../../../enterprise-ai-discovery)
 - **When AI should act** → [`agentic-decision-boundaries`](../../../agentic-decision-boundaries)
 - **How AI is controlled** → [`ai-governance-by-design`](../../../ai-governance-by-design)
 
