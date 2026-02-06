@@ -17,4 +17,20 @@ I design and operationalize enterprise AI systems that balance autonomy, risk, e
 - Trust-first AI operating models
 - Enterprise adoption & value realization
 
+### How I think about enterprise AI systems
+Enterprise AI succeeds when intent, autonomy, and control are designed together — not treated as separate concerns.
+I design AI systems starting from business intent, not models.
+- **Why the AI system exists** is established through discovery, decision mapping, and value realization.
+- **When AI should act** is defined through explicit decision boundaries based on confidence, risk, and reversibility.
+- **How AI is controlled** is embedded directly into system behavior through governance, explainability, and human-in-the-loop mechanisms.
+
+Each layer reinforces the others to enable safe autonomy at enterprise scale.
+
+### Related work
+- **Why the AI system exists** → [`enterprise-ai-discovery-kit`](./enterprise-ai-discovery-kit)
+- **When AI should act** → [`agentic-decision-boundaries`](./agentic-decision-boundaries)
+- **How AI is controlled** → [`ai-governance-by-design`](./ai-governance-by-design)
+
+
+
 📫 [LinkedIn](https://www.linkedin.com/in/ahluwaliaarvind/) | 🌐 ProdWorks.io
